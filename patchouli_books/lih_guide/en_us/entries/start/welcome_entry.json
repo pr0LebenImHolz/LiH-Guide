@@ -1,0 +1,11 @@
+{
+    "name": "1 Willkommen",
+    "icon": "minecraft:skull:3",
+    "category": "patchouli:start_category",
+    "pages": [
+       {
+            "type": "text",
+            "text": "Willkommen auf dem offiziellen Lebel im Holz Server! Hier kannst du mit gleichgesinnten Kellerkindern zusammen epische Monumente oder einfach einen großen Dreckklumpen bauen"
+        }
+    ]
+}

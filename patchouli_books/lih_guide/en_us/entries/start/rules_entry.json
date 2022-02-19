@@ -1,0 +1,53 @@
+{
+    "name": "2 Regeln",
+    "icon": "thaumcraft:curio:4",
+    "category": "patchouli:start_category",
+    "pages": [
+         {
+             "type": "text",
+             "text": "$(o)Grundsätzlich gilt:$(br)$(l)$(4)Verhalte dich wie ein normaler Mensch$()$(br2)$(l:start/rules_entry#rules_generic_1)Allgemein$(/l)$(br)$(l:start/rules_entry#rules_minecraft_1)Minecraft$(/l)"
+         },
+         {
+             "type": "text",
+             "title": "Allgemein",
+             "anchor": "rules_generic_1",
+             "text": "$(l)$(4)1.1)$()$(br)Anonymität wird hier, wie beim pr0gramm, groß geschrieben. Schließlich will Niemand ein Schanzenfest vor der Haustür.$(br2)$(l)$(4)1.2)$()$(br)Kein stumpfer Rassismus, kein rechtes Gedankengut, keine Nazi-Nostalgie.$(br2)$(l)$(4)1.3)$()$(br)Es gilt das Hausrecht. Das Team darf jeden jederzeit vom pr0jekt ausschließen [...]"
+         },
+         {
+             "type": "text",
+             "title": "Allgemein",
+             "anchor": "rules_generic_2",
+             "text": "$(l)$(4)1.3)$() [...]$(br)(Ohne triftigen Grund wird das jedoch nicht passieren).$(br2)$(l)$(4)1.4)$()$(br)Kein unnötiges Markieren von Nutzern, insbesondere Teammitgliedern.$(br2)$(l)$(4)1.5)$()$(br)Kein Spam.$(br2)$(l)$(4)1.6)$()$(br)Der Discord Server ist Pflicht, wenn man auf dem Minecraft"
+         },
+         {
+             "type": "text",
+             "title": "Allgemein",
+             "anchor": "rules_generic_3",
+             "text": "Server spielen möchte.$(br2)$(l)$(4)1.7)$()$(br)Invites: Jeder pr0ler darf beim pr0jekt mitwirken und nach Absprache mit dem Team auch Leute ohne pr0gramm Account einladen.$(br2)$(l)$(4)1.8)$()$(br)Verstöße gegen die Regeln werden nach eigenem Ermessen des Teams honoriert. Das kann von einer kleinen Auszeit bis hin zu einem Permabann führen."
+         },
+         {
+             "type": "text",
+             "title": "Minecraft",
+             "anchor": "rules_minecraft_1",
+             "text": "$(l)$(4)2.1)$()$(br)\"Leihe\" nichts ohne Erlaubnis vom Besitzer aus fremden Truhen, etc. aus.$(br2)$(l)$(4)2.2)$()$(br)Bau nicht ohne Erlaubnis vom Besitzer an fremden Bauwerken weiter.$(br2)$(l)$(4)2.3)$()$(br)Griefing wird nicht geduldet und zählt zu schwereren Regelverstößen."
+         },
+         {
+             "type": "text",
+             "title": "Minecraft",
+             "anchor": "rules_minecraft_2",
+             "text": "$(l)$(4)2.4)$()$(br)Wenn du neben jemandem Bauen willst, sprech dich mit ihm ab und einige dich auf einen Baustil.$(br2)$(l)$(4)2.5)$()$(br)Exploiting: Solange du anderen oder dem Server/ der Serverperformance damit nicht schadest, wird es geduldet, wenn du durch Exploits ingame (!) zu Vorteilen kommst."
+         },
+         {
+             "type": "text",
+             "title": "Minecraft",
+             "anchor": "rules_minecraft_3",
+             "text": "$(l)$(4)2.6)$()$(br)Hacks: x-Ray Mods/ Resource-Packs, Cheats ($(8)/give$(), $(8)/gamemode$()) werden nicht geduldet (Außer Admins sind sternhagelvoll *hust* $(6)@LonelyChimo ●$() *hust*).$(br2)$(l)$(4)2.7)$()$(br)Redstone/ Tierfarmen: Automatische Redstoneschaltungen müssen mit einem Hebel/ Knopf, etc. abschaltbar sein, sowie zur Gunste der Serverperformance"
+         },
+         {
+             "type": "text",
+             "title": "Minecraft",
+             "anchor": "rules_minecraft_4",
+             "text": "konzipiert sein. Tier/Mobfarmen nur im kleinen Stil bauen, umLags vorzubeugen.$(br2)$(l)$(4)2.8)$()$(br)Keine Quarrys als Chunkloader. Quarrys müssen mit Besitzer beschriftet werden, wilde herrenlose Quarrys werden rigeros ausgemerzt!"
+         }
+    ]
+}
