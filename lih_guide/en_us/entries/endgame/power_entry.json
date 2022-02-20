@@ -3,129 +3,129 @@
     "icon": "immersiveengineering:metal_device1:8",
     "category": "patchouli:endgame_category",
     "pages": [
-        {
+		{
             "type": "text",
             "text": "Da unendliche Energie über viele Wege erreichbar ist, die alle sehr große und die Serverrecourcen beeinträchtigende Maschinen involvieren, haben wir eine Alternative geschaffen. Für Applied Energistics 2 und Immersive Engineering gibt es im Survival erreichbare $(o)creative energy$() Blöcke welche unlimitiert Energie ausgeben ohne dabei Treibstoff zu verbrauchen."
         },
-        {
+		{
             "type": "text",
             "text": "Diese sind als Endgameinhalte gedacht und sind daher sehr Teuer!<br>Zu den Rezepten: <br> <br>$(l:endgame/power_entry#im)Immersive Engineering$()<br> <br>$(l:endgame/power_entry#ae)Applied Energistics 2$()"
         },
-        {
+		{
             "type": "text",
-            "anchor": "im",
-            "title": "Immersive Engineering",
+			"anchor": "im",
+			"title": "Immersive Engineering",
             "text": "$(l:endgame/power_entry#im1)Creative Capacitor$()<br> $(l:endgame/power_entry#im1)IE-Kit$()<br>  $(l:endgame/power_entry#im2)Perpetuum Mobile$()<br>  $(l:endgame/power_entry#im2)Intelligent Engineering Block$()<br>   $(l:endgame/power_entry#im3)HV-Integrated Circuitry$()<br>    $(l:endgame/power_entry#im3)Arc-Reactor$()<br>     $(l:endgame/power_entry#im4)MV-Integrated Circuitry$()<br>      $(l:endgame/power_entry#im4)Stirling-Engine$()<br>       $(l:endgame/power_entry#im5)LV-Integrated Circuitry$() <br> <br>Weitere Rezepte:<br>$(l:endgame/power_entry#misc1)Creativum$()<br>$(l:endgame/power_entry#misc2)Creative Perle$()"  
         },
-        {
+		{
             "type": "crafting",
-            "anchor": "im1",
+			"anchor": "im1",
             "text": "Immersive Engineering  |  $(7) 1/5 $()",
-            "title": " ",
-            "recipe": "additions:lih-creative_capacitor",
-            "recipe2": "additions:lih-ie_kit"
+			"title": " ",
+			"recipe": "additions:lih-creative_capacitor",
+			"recipe2": "additions:lih-ie_kit"
         },
-        {
+		{
             "type": "crafting",
-            "anchor": "im2",
+			"anchor": "im2",
             "text": "Immersive Engineering  |  $(7) 2/5 $()",
-            "title": " ",
-            "recipe": "additions:lih-intelligent_engineering_block",
-            "recipe2": "additions:lih-perpetuum_mobile"
+			"title": " ",
+			"recipe": "additions:lih-intelligent_engineering_block",
+			"recipe2": "additions:lih-perpetuum_mobile"
         },
-        {
+				{
             "type": "crafting",
-            "anchor": "im3",
+			"anchor": "im3",
             "text": "Immersive Engineering  |  $(7) 3/5 $()",
-            "title": " ",
-            "recipe": "additions:lih-hv_integrated_circuitry",
-            "recipe2": "additions:lih-arc_reactor"
+			"title": " ",
+			"recipe": "additions:lih-hv_integrated_circuitry",
+			"recipe2": "additions:lih-arc_reactor"
         },
-        {
+				{
             "type": "crafting",
-            "anchor": "im4",
+			"anchor": "im4",
             "text": "Immersive Engineering  |  $(7) 4/5 $()",
-            "title": " ",
-            "recipe": "additions:lih-mv_integrated_circuitry",
-            "recipe2": "additions:lih-stirling_engine"
+			"title": " ",
+			"recipe": "additions:lih-mv_integrated_circuitry",
+			"recipe2": "additions:lih-stirling_engine"
         },
-        {
+				{
             "type": "crafting",
-            "anchor": "im5",
+			"anchor": "im5",
             "text": "<br> <br> <br> <br> <br> <br> <br> <br>Immersive Engineering  |  $(7) 5/5 $()",
-            "title": " ",
-            "recipe": "additions:lih-lv_integrated_circuitry",
-            "recipe2": ""
+			"title": " ",
+			"recipe": "additions:lih-lv_integrated_circuitry",
+			"recipe2": ""
         },
-        {
+		{
             "type": "text",
-            "title": "Applied Energistics 2",
-            "anchor": "ae",
+			"title": "Applied Energistics 2",
+			"anchor": "ae",
             "text": "$(l:endgame/power_entry#ae1)Creative Energy Cell$()<br> $(l:endgame/power_entry#ae1)AE2-Kit$()<br>  $(l:endgame/power_entry#ae2)Dense Calculation Block$()<br>  $(l:endgame/power_entry#ae2)Dense Energy Cell Block$()<br>  $(l:endgame/power_entry#ae3)Dense Engineering Block$()<br>  $(l:endgame/power_entry#ae3)Dense Logic Block$()<br>   $(l:endgame/power_entry#ae4)512K Storage Cell$()<br>    $(l:endgame/power_entry#ae4)256K Storage Cell$()<br>     $(l:endgame/power_entry#ae5)128K Storage Cell$()<br> <br>Weitere Rezepte:<br>$(l:endgame/power_entry#misc1)Creativum$()<br>$(l:endgame/power_entry#misc2)Creative Perle$()"
         },
-        {
+		{
             "type": "crafting",
-            "anchor": "ae1",
+			"anchor": "ae1",
             "text": "Applied Energistics 2  |  $(7) 1/5 $()",
-            "title": " ",
-            "recipe": "additions:lih-creative_energy_cell",
-            "recipe2": "additions:lih-ae2_kit"
+			"title": " ",
+			"recipe": "additions:lih-creative_energy_cell",
+			"recipe2": "additions:lih-ae2_kit"
         },
-        {
+		{
             "type": "crafting",
-            "anchor": "ae2",
+			"anchor": "ae2",
             "text": "Applied Energistics 2  |  $(7) 2/5 $()",
-            "title": " ",
-            "recipe": "additions:lih-dense_calculation_block",
-            "recipe2": "additions:lih-dense_energy_cell_block"
+			"title": " ",
+			"recipe": "additions:lih-dense_calculation_block",
+			"recipe2": "additions:lih-dense_energy_cell_block"
         },
-        {
+		{
             "type": "crafting",
-            "anchor": "ae3",
+			"anchor": "ae3",
             "text": "Applied Energistics 2  |  $(7) 3/5 $()",
-            "title": " ",
-            "recipe": "additions:lih-dense_engineering_block",
-            "recipe2": "additions:lih-dense_logic_block"
+			"title": " ",
+			"recipe": "additions:lih-dense_engineering_block",
+			"recipe2": "additions:lih-dense_logic_block"
         },
-        {
+		{
             "type": "crafting",
-            "anchor": "ae4",
+			"anchor": "ae4",
             "text": "Applied Energistics 2  |  $(7) 4/5 $()",
-            "title": " ",
-            "recipe": "additions:lih-512k_storage_cell",
-            "recipe2": "additions:lih-256k_storage_cell"
+			"title": " ",
+			"recipe": "additions:lih-512k_storage_cell",
+			"recipe2": "additions:lih-256k_storage_cell"
         },
-        {
+		{
             "type": "crafting",
-            "anchor": "ae5",
+			"anchor": "ae5",
             "text": "<br> <br> <br> <br> <br> <br> <br> <br>Applied Energistics 2  |  $(7) 5/5 $()",
-            "title": " ",
-            "recipe": "additions:lih-128k_storage_cell",
-            "recipe2": ""
+			"title": " ",
+			"recipe": "additions:lih-128k_storage_cell",
+			"recipe2": ""
         },
-        {
+		{
             "type": "crafting",
-            "anchor": "misc1",
+			"anchor": "misc1",
             "text": "Misc  |  $(7) 1/3 $()",
-            "title": " ",
-            "recipe": "additions:lih-creativum_block",
-            "recipe2": "additions:lih-nether_star_block"
+			"title": " ",
+			"recipe": "additions:lih-creativum_block",
+			"recipe2": "additions:lih-nether_star_block"
         },
-        {
+		{
             "type": "crafting",
-            "anchor": "misc2",
+			"anchor": "misc2",
             "text": "Misc  |  $(7) 2/3 $()",
-            "title": " ",
-            "recipe": "additions:lih-creativum_lump",
-            "recipe2": "additions:lih-creative_pearl"
+			"title": " ",
+			"recipe": "additions:lih-creativum_lump",
+			"recipe2": "additions:lih-creative_pearl"
         },
-        {
+		{
             "type": "smelting",
-            "anchor": "misc3",
+			"anchor": "misc3",
             "text": "<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Misc  |  $(7) 3/3 $()",
-            "title": " ",
-            "recipe": "additions:lih-creativum_lump",
-            "recipe2": ""
+			"title": " ",
+			"recipe": "additions:lih-creativum_lump",
+			"recipe2": ""
         }
     ]
 }

@@ -3,11 +3,11 @@
     "icon": "carpentersblocks:carpenters_hammer",
     "category": "patchouli:endgame_category",
     "pages": [
-        {
+		{
             "type": "text",
             "text": "Du willst ein großes Bauprojekt organisieren? Hogwarts oder Isengard nachbauen? Kein Problem!<br> <br>Größenwahnsinnige Projekte werden gerne Unterstützt und genießen einige Vorteile! <br> <br>Bei öffentlicher Vertigstellung wird das Projekt per Teleportzugang ins Museum der Hauptstadt aufgenommen."
         },
-        {
+		{
             "type": "text",
             "text": "Du kannst dein Projekt im Discord unter #projekt-orga anmelden und bekommst für dein Vorhaben:<br> <br>-Einen Discord Kanal zum Organisieren (auch, bei geheimen Projekten, versteckt mit eigener Rolle zum Mitspieler einladen)<br> <br>-Einen Teleporter zum Projekt. (auch mit Zugangslimitierung für nicht-Projektteilnehmer)"
         }
