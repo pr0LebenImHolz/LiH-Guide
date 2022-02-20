@@ -1,11 +1,11 @@
 {
-    "name": "2 Regeln",
+    "name": "2. Regeln",
     "icon": "thaumcraft:curio:4",
     "category": "patchouli:start_category",
     "pages": [
          {
              "type": "text",
-             "text": "$(o)Grundsätzlich gilt:$(br)$(l)$(4)Verhalte dich wie ein normaler Mensch$()$(br2)Allgemein$(br)$(l:start/rules_entry#rules_minecraft_1)Minecraft$(/l)"
+             "text": "$(o)Grundsätzlich gilt:$(br)$(l)$(4)Verhalte dich wie ein normaler Mensch$()$(br2)$(8) ◆ $()$(l:start/rules_entry#rules_generic_1)Allgemein$()$(br)$(8) ◆ $()$(l:start/rules_entry#rules_minecraft_1)Minecraft$(/l)"
          },
          {
              "type": "text",
