@@ -5,7 +5,7 @@
     "pages": [
          {
              "type": "text",
-             "text": "$(o)Grundsätzlich gilt:$(br)$(l)$(4)Verhalte dich wie ein normaler Mensch$()$(br2)$(l:start/rules_entry#rules_generic_1)Allgemein$(/l)$(br)$(l:start/rules_entry#rules_minecraft_1)Minecraft$(/l)"
+             "text": "$(o)Grundsätzlich gilt:$(br)$(l)$(4)Verhalte dich wie ein normaler Mensch$()$(br2)Allgemein$(br)$(l:start/rules_entry#rules_minecraft_1)Minecraft$(/l)"
          },
          {
              "type": "text",

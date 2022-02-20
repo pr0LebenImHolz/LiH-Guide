@@ -1,11 +1,29 @@
 {
-    "name": "3 Hauptstadt",
+    "name": "3. Hauptstadt",
     "icon": "twilightforest:miniature_structure:6",
     "category": "patchouli:start_category",
     "pages": [
       {
             "type": "text",
-            "text": "Du kannst natürlich überall anfangen, aber wir empfehlen einen Start mit einem kleinen (oder großen) Haus in der Hauptstadt. Wenn dein Haus fertig ist bekommst du von dort Teleporter zu denem Wunschort um da mit deiner Stadt,Burg,Dorf,... zu beginnen. So sind per Teleporter und Hauptstadt auch später noch alle miteinander verbunden!"
+			"anchor": "ca",
+            "text": "Du kannst natürlich überall anfangen, aber wir empfehlen einen Start mit einem kleinen (oder großen) Haus in der Hauptstadt.<br>Wenn dein Haus fertig ist bekommst du von dort Teleporter zu denem Wunschort um da mit deinen eigenen Bauprojekt zu beginnen.<br> <br>So sind per Teleporter und Hauptstadt auch später noch alle miteinander verbunden!"
+        },
+		 {
+            "type": "text",
+            "text": "In der Hauptstadt kannst neben deinem Haus du auch noch öffentliche Gebäude bauen oder Gilden gründen.<br> <br>$(l:start/capital_entry#ca1)Gilden$()<br> <br>$(l:start/capital_entry#ca2)Öffentliche Gebäude$()"
+        },
+		 {
+            "type": "text",
+			"anchor": "ca1",
+			"title": "Gilden",
+            "text": "Gilden dienen dazu ein Anliegen zu vertreten.<br>So kann ein mit den Straßen unzufriedener Spieler die Straßenbau-Gilde gründen um Mitglieder zu sammeln und die Stadt zu verschönern. <br>Bereits bekannte Gilden könnnen im Rathaus eingesehen werden und sind bis jetzt: <br>-Gilde für die Bewahrung und Pflege der Nether Ästhetik"
+        }
+		,
+		 {
+            "type": "text",
+			"anchor": "ca2",
+			"title": "Öffentliche Gebäude",
+            "text": "Um der Hauptstadt etwas mehr Leben zu geben freuen wir uns immer über kreative Ideen! Bis jetzt baut DieSchwitzritze ein Museum in dem alle fertigen Projekte als Kunstwerke mit Teleporter-Zugang ausgestellt werden. Es ist auch ein Rathaus in Planung welches ein Gildenregister führen soll."
         }
     ]
 }

@@ -1,8 +1,42 @@
 {
-    "name": "2 Teleporter",
+    "name": "2. Teleporter",
     "icon": "additions:lih-portal",
     "category": "patchouli:endgame_category",
     "pages": [
-  
+		{
+            "type": "text",
+			"title": "Teleporter",
+            "text": "Züge sind für lokale Strecken ja schön und gut aber für wirklich lange Distanzen kann sich das sehr ziehen...<br>Daher geben wir euch die Möglichkeit verschidene Teleporter zu bekommen.<br> <br>Diese sind:<br>$(l:endgame/teleporter_entry#tp)Hauptstadt Teleporter$()<br>$(l:endgame/teleporter_entry#tp1)Projekt Teleporter$()<br>$(l:endgame/teleporter_entry#tp2)Monument Teleporter$()<br> <br>Anmeldungen per DM an Admins"
+        },
+		{
+            "type": "text",
+			"anchor": "tp",
+			"title": "Hauptstadt Teleporter",
+            "text": "Wenn du ein Haus in der Hauptstadt fertig hast und über das Expandieren nachdenkst bekommst du aus deinem Haus einen öffentlich zugänglichen Teleporter zu einem Ort deiner Wahl! So kannst du später von deiner eigenen Stadt immernoch schnell zu deinem Nachbarn kommen."
+        },
+		{
+            "type": "text",
+			"anchor": "tp1",
+			"title": "Projekt Teleporter",
+            "text": "Ein Bauprojekt steht und fällt mit der Lanschaft darum. Desshalb wäre es ja schade einen sehr weit entfernten Punkt nicht nutzen zu können, nur weil die Reise so lange dauert. Zu jedem angemeldeten Projekt bekommt man einen Teleporter zum Bauort! Der Ort muss nicht bei der Anmeldeung feststehen, der Teleporter kann jederzeit nachgeordert werden."
+        },
+		{
+            "type": "text",
+			"anchor": "tp2",
+			"title": "Monument Teleporter",
+            "text": "Solltest du kein Haus in der Hauptstadt oder deine Teleporter bereits verbraucht haben, hast du die Möglichkeit einen Monument Teleporter anzufragen. Dieser verbindet ein kleines Gebäüde in der Hauptstadt mit deinem Bauplatz. Er kann jedoch erst ab einer gewissen Größe beantragt werden, wobei sich höhere Bewohnerzahlen positiv auswirken. $(l:endgame/teleporter_entry#tp3)Bsp und FAQ$()"
+        },
+		{
+            "type": "text",
+			"anchor": "tp3",
+			"title": "FAQ",
+            "text": "$(l)Monument Bsp:$()<br>1 oder 6 Spieler in einem kleinen Häuschen bekommen keinen extra Teleporter, 1 Spieler in einer großen Stadt bekommen einen und 6 Spieler in einem anständigen Dorf bekommen auch einen.<br> <br>$(l)Geheime Projekte:$()<br> Der Teleporter lässt nur Spieler mit einem bestimmten Scoreboard durch und wird über Command Blöcke realisiert<br>"
+        },
+		{
+            "type": "text",
+			"anchor": "tp4",
+			"title": " ",
+            "text": "$(l)Wie viele Teleporter habe ich:$()<br>Bei vollendung deines Hauses in der Hauptstadt bekommst du einen. Pro Projekt einen und je Rang weitere Monument Teleporter. Siehe LINK<br> <br>"
+        }
     ]
 }

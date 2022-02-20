@@ -1,11 +1,27 @@
 {
-    "name": "4 Ränge",
+    "name": "4. Ränge",
     "icon": "extrautils2:ingredients:7",
     "category": "patchouli:start_category",
     "pages": [
          {
             "type": "text",
-            "text": "Die Ränge auf dem Minecraft & Discord Server sind, bis auf Staff-Rollen, rein dekorativ und werden nach Spielzeit vergeben. Dafür MUSS der Minecraft-Account mit dem Discord-Account verbunden.  Dafür im #bot Kanal auf dem Discord Server /HIER_KOMMAND_EINFÜGEN schreiben und dem Bot folgen."
+            "text": "Die Ränge auf dem Minecraft & Discord Server bringen einige Boni und werden nach Spielzeit vergeben. Dafür MUSS der Minecraft-Account mit dem Discord-Account verbunden werden. <br>Einfach im #bot Kanal auf dem Discord Server /HIER_KOMMAND_EINFÜGEN schreiben und dem Bot folgen.<br> <br>$(l:start/ranks_entry#rb)Rangbonis$()"
+        },
+		{
+            "type": "text",
+			"title": "Ränge:",
+            "text": "$(0)-$(8)Fliesentischbesitzer (0h)<br><br>$(8)-$(d)Neuschwuchtel (2h)<br><br>$(8)-$()Schwuchtel (24h)<br><br>$(8)-$(a)Mittelaltschwuchtel (1W)<br><br>$(8)-$(2)Altschwuchtel (2W)<br><br>$(8)-$(3)Edler Spender<br><br>$(8)-$(3)Lebende Legende<br><br>$(8)-$(4)Comunityhelfer<br><br>$(8)-$(1)Moderator<br><br>$(8)-$(6)Admin<br>"
+        },
+		{
+            "type": "text",
+			"anchor": "rb",
+			"title": "Rangbonis",
+            "text": "$(0)-$(8)Fliesentischbesitzer (0h)<br>  4 Plots; 32 Plotsize<br> <br>$(8)-$(d)Neuschwuchtel (2h)<br>  +2 Plots; +15 Plotsize<br> <br>$(8)-$()Schwuchtel (24h)<br>  +1 Monument Teleporter,<br>  +3 Plots; +20 Plotsize<br> <br>$(8)-$(a)Mittelaltschwuchtel (1W)<br>  +3 Monument Teleporter,<br>  +5 Plots; +30 Plotsize<br> <br>"
+        },
+		{
+            "type": "text",
+			"title": " ",
+            "text": "$(8)-$(2)Altschwuchtel (2W)<br>  +5 Monument Teleporter,<br>  +10 Plots; +50 Plotsize<br> <br>$(8)-$(3)Edler Spender<br>  Unsere ewige dankbarkeit <3<br> <br>$(8)-$(3)Lebende Legende<br>  Einen Platz in unser aller<br>  Herzen und Hosen$()<br> <br>$(l:endgame/teleporter_entry#tp)Plots$() <br>$(l:endgame/teleporter_entry#tp)Teleporter$()"
         }
     ]
 }
