@@ -3,14 +3,14 @@
     "icon": "minecraft:skull:3",
     "category": "patchouli:start_category",
     "pages": [
-		{
+        {
             "type": "text",
-            "text": "Willkommen auf dem offiziellen Lebel im Holz Server! Hier kannst du mit gleichgesinnten Kellerkindern zusammen epische Monumente oder einfach einen großen Dreckklumpen bauen! <br> <br>Du kannst $(l:endgame/power_entry)Unendliche Energiequellen$() erschließen, deine eigenen $(l:endgame/teleporter_entry)Teleporter$() bekomen und an $(l:endgame/projects_entry)Projekten$() teilnehmen oder neue ins leben rufen."
+            "text": "Willkommen auf dem offiziellen Lebel im Holz Server! Hier kannst du mit gleichgesinnten Kellerkindern zusammen epische Monumente oder einfach einen großen Dreckklumpen bauen! <br> <br>Du kannst $(l:endgame/power_entry)Unendliche Energiequellen$() erschließen, deine eigenen $(l:endgame/teleporter_entry)Teleporter$() bekomen und an $(l:endgame/projects_entry)Projekten$() teilnehmen oder neue ins Leben rufen."
         },
-		{
-			"type": "crafting",
+        {
+            "type": "crafting",
             "recipe": "additions:lih-guide_book",
-			"recipe2": "additions:lih-lebenimholz_icon",
+            "recipe2": "additions:lih-lebenimholz_icon",
             "text": "Buch und ein Icon kann auch gecraftet werden"
         }
 
