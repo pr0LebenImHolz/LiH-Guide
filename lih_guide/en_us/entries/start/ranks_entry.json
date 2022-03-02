@@ -5,7 +5,7 @@
     "pages": [
          {
             "type": "text",
-            "text": "Die Ränge auf dem Minecraft & Discord Server sind rein dekorativ und werden nach Spielzeit vergeben. Dafür muss der Minecraft-Account mit dem Discord-Account verbunden werden.<br>Einfach im #bot Kanal auf dem Discord Server den Befehl $(8)/link [Minecraft Name|UUID]$() ausführen und dem Bot folgen."
+            "text": "Die Ränge auf dem Minecraft & Discord Server sind (noch) dekorativ und werden zukünftig nach Spielzeit vergeben (In Entwicklung). Dafür muss der Minecraft-Account mit dem Discord-Account verbunden werden.$(br2)$(o)(WIP)$()"
         },
         {
             "type": "text",

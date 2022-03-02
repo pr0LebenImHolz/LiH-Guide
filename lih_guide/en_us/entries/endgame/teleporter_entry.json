@@ -36,7 +36,7 @@
             "type": "text",
             "anchor": "tp4",
             "title": " ",
-            "text": "$(l)Wie viele Teleporter habe ich:$()<br>Bei Vollendung deines Hauses in der Hauptstadt bekommst du einen. Pro Projekt einen und je Rang weitere Monument Teleporter. Siehe LINK<br> <br>"
+            "text": "$(l)Wie viele Teleporter habe ich:$()<br>Bei Vollendung deines Hauses in der Hauptstadt bekommst du einen. Pro Projekt einen und 5 Monument Teleporter."
         }
     ]
 }
