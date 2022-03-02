@@ -5,7 +5,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "Willkommen auf dem offiziellen Lebel im Holz Server! Hier kannst du mit gleichgesinnten Kellerkindern zusammen epische Monumente oder einfach einen großen Dreckklumpen bauen! <br> <br>Du kannst $(l:endgame/power_entry)Unendliche Energiequellen$() erschließen, deine eigenen $(l:endgame/teleporter_entry)Teleporter$() bekomen und an $(l:endgame/projects_entry)Projekten$() teilnehmen oder neue ins Leben rufen."
+            "text": "Willkommen auf dem offiziellen Leben im Holz Server! Hier kannst du mit gleichgesinnten Kellerkindern zusammen epische Monumente oder einfach einen großen Dreckklumpen bauen! <br> <br>Du kannst $(l:endgame/power_entry)Unendliche Energiequellen$() erschließen, deine eigenen $(l:endgame/teleporter_entry)Teleporter$() bekommen und an $(l:endgame/projects_entry)Projekten$() teilnehmen oder neue ins Leben rufen."
         },
         {
             "type": "crafting",

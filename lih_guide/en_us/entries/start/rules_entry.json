@@ -35,7 +35,7 @@
              "type": "text",
              "title": "Minecraft",
              "anchor": "rules_minecraft_2",
-             "text": "$(l)$(4)2.4)$()$(br)Wenn du neben jemandem Bauen willst, sprech dich mit ihm ab und einige dich auf einen Baustil.$(br2)$(l)$(4)2.5)$()$(br)Exploiting: Solange du anderen oder dem Server/ der Serverperformance damit nicht schadest, wird es geduldet, wenn du durch Exploits ingame (!) zu Vorteilen kommst."
+             "text": "$(l)$(4)2.4)$()$(br)Wenn du neben jemandem bauen willst, sprech dich mit ihm ab und einige dich auf einen Baustil.$(br2)$(l)$(4)2.5)$()$(br)Exploiting: Solange du anderen oder dem Server/ der Serverperformance damit nicht schadest, wird es geduldet, wenn du durch Exploits ingame (!) zu Vorteilen kommst."
          },
          {
              "type": "text",
@@ -47,7 +47,7 @@
              "type": "text",
              "title": "Minecraft",
              "anchor": "rules_minecraft_4",
-             "text": "konzipiert sein. Tier/Mobfarmen nur im kleinen Stil bauen, umLags vorzubeugen.$(br2)$(l)$(4)2.8)$()$(br)Keine Quarrys als Chunkloader. Quarrys müssen mit Besitzer beschriftet werden, wilde herrenlose Quarrys werden rigeros ausgemerzt!"
+             "text": "konzipiert sein. Tier/Mobfarmen nur im kleinen Stil bauen, um Lags vorzubeugen.$(br2)$(l)$(4)2.8)$()$(br)Quarrys müssen mit Besitzer beschriftet werden, wilde herrenlose Quarrys werden rigeros ausgemerzt!"
          }
     ]
 }
