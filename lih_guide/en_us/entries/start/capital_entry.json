@@ -6,7 +6,7 @@
         {
             "type": "text",
             "anchor": "ca",
-            "text": "Du kannst natürlich überall anfangen, aber wir empfehlen einen Start mit einem kleinen (oder großen) Haus in der Hauptstadt.<br>Wenn dein Haus fertig ist bekommst du von dort Teleporter zu denem Wunschort um da mit deinen eigenen Bauprojekt zu beginnen.<br> <br>So sind per Teleporter und Hauptstadt auch später noch alle miteinander verbunden!"
+            "text": "Du kannst natürlich überall anfangen, aber wir empfehlen einen Start mit einem kleinen (oder großen) Haus in der Hauptstadt.<br>Wenn dein Haus fertig ist bekommst du von dort Teleporter zu deinem Wunschort um da mit deinem eigenen Bauprojekt zu beginnen.<br> <br>So sind per Teleporter und Hauptstadt auch später noch alle miteinander verbunden!"
         },
         {
             "type": "text",
@@ -16,7 +16,7 @@
             "type": "text",
             "anchor": "ca1",
             "title": "Gilden",
-            "text": "Gilden dienen dazu, ein Anliegen zu vertreten.<br>So kann ein, mit den Straßen unzufriedener Spieler die Straßenbau-Gilde gründen um Mitglieder zu sammeln und die Stadt zu verschönern. <br>Bereits bekannte und etablierte Gilden könnnen im Rathaus eingesehen werden und sind bis jetzt:$(br2) ◆ $(o)$(c)Gilde für die Bewahrung und$(br)   Pflege der Nether Ästhetik$()$(br) ◆ $(o)$(8)Gilde für Schienenverkehr$()"
+            "text": "Gilden dienen dazu, ein Anliegen zu vertreten.<br>So kann ein, mit den Straßen unzufriedener Spieler die Straßenbau-Gilde gründen, um Mitglieder zu sammeln und die Stadt zu verschönern. <br>Bereits bekannte und etablierte Gilden könnnen im Rathaus eingesehen werden und sind bis jetzt:$(br2)$(8) ◆ $()$(o)$(c)Gilde für die Bewahrung und$(br)   Pflege der Nether Ästhetik$()$(br)$(8) ◆ $()$(o)$(8)Gilde für Schienenverkehr$()"
         },
         {
             "type": "text",
